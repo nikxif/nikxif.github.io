@@ -38,17 +38,17 @@ h1 {
 }
 
 h3 {
-    font-size: 40px;
+    font-size: 20px;
     margin-bottom: 60px;
 }
 
 h3 a {
-    color: cyan;
+    color: LightSkyBlue;
     text-decoration: none;
 }
 
 h3 a:hover {
-    color: darkcyan;
+    color: DarkSkyBlue;
 }
 
 .sm a {
